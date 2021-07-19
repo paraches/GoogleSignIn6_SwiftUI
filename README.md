@@ -9,5 +9,10 @@ Sample program to use Google Sign-In 6.0.0 in SwiftUI.
 ## Movie
 ![Google Sign-In 6.0.0](SwiftUIGoogleSignInSample.gif)
 
+## Run
+1. Open UserData.swift
+2. Change "<clientID>" to your own Google OAuth client ID.
+3. Buid & Run
+
 ## Note
 https://zenn.dev/articles/swiftui_google-sign-in600
