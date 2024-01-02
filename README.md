@@ -15,4 +15,4 @@ Sample program to use Google Sign-In 6.0.0 in SwiftUI.
 3. Buid & Run
 
 ## Note
-https://zenn.dev/articles/swiftui_google-sign-in600
+https://zenn.dev/paraches/articles/swiftui_google-sign-in600
